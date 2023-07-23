@@ -16,14 +16,6 @@
 
 Highly skilled Full-Stack Software Engineer and accomplished Web Developer with triple certifications in web development and dual certifications in data analysis. I possess a wealth of hands-on experience in building robust and scalable applications, utilizing a diverse set of programming languages and technologies.
 
-#### Technical Expertise:
-
-- **Programming Languages:** Python, C
-- **Front-end:** HTML, CSS, JavaScript, ReactJS, Node.js, jQuery, Bootstrap
-- **Back-end:** Node.js, Django, SQL, MySQL, MongoDB, etc.
-- **Data Analysis:** Excel, SQL, PowerBI, Tableau, etc.
-- **Data Structures and Algorithms:** Strong knowledge of DSA topics, including single, double, and circular linked lists, queues, stacks, graph search algorithms, sorting algorithms, etc.
-
 #### Connect with Me:
 
 Feel free to reach out to me via email at [gafoor.mngr@gmail.com](mailto:gafoor.mngr@gmail.com) for any exciting collaboration, project opportunities, or discussions related to software development and data analysis. Let's create something amazing together!
