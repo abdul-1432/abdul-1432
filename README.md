@@ -17,21 +17,8 @@ Highly skilled Full-Stack Software Engineer and accomplished Web Developer with 
 - **Data Analysis:** Excel, SQL, PowerBI, Tableau, etc.
 - **Data Structures and Algorithms:** Strong knowledge of DSA topics, including single, double, and circular linked lists, queues, stacks, graph search algorithms, sorting algorithms, etc.
 
-#### Projects and Contributions:
-
-Throughout my career, I have actively contributed to various open-source projects on GitHub, and my portfolio showcases a diverse range of applications, from full-fledged web applications to data analysis projects. I believe in the power of collaboration and enjoy sharing knowledge with the developer community on platforms like Stack Overflow, where I've participated in resolving coding challenges and offering solutions to fellow developers.
-
-#### Certifications and Achievements:
-
-- Triple Certified Web Developer (certifications from reputable institutions)
-- Dual Certified Data Analyst (certifications from reputable institutions)
-
-#### Learning and Growth:
-
-I am committed to continuous learning and staying up-to-date with the latest trends and advancements in the tech industry. I frequently engage in coding challenges, online courses, and workshops to sharpen my skills further. My passion for problem-solving and creative thinking drives me to tackle complex challenges with efficiency and innovation.
-
 #### Connect with Me:
 
-Feel free to reach out to me via email at [mohammad.abdulgafoor@example.com](mailto:mohammad.abdulgafoor@example.com) for any exciting collaboration, project opportunities, or discussions related to software development and data analysis. Let's create something amazing together!
+Feel free to reach out to me via email at [gafoor.mngr@gmail.com](mailto:gafoor.mngr@gmail.com) for any exciting collaboration, project opportunities, or discussions related to software development and data analysis. Let's create something amazing together!
 
 > "The best way to predict the future is to create it." - Abraham Lincoln
